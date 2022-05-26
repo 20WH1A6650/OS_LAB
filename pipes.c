@@ -33,5 +33,10 @@ int main()
 	}
 printf("\n");
 }
-	
+/*
+OUTPUT:
+String 1: BVRIT 
+
+String 2 : Hyderabad
+*/
 
