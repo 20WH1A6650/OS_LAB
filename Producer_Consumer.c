@@ -55,3 +55,26 @@ int main(){
 		}
 	}
 }
+/* 
+OUTPUT:
+
+1.producer
+2.consumer
+3.exit
+Enter your choice: 1
+producer produces the item 1
+Enter your choice: 1
+producer produces the item 2
+Enter your choice: 1
+producer produces the item 3
+Enter your choice: 2
+consumer  consumes the item 3
+Enter your choice: 2
+consumer  consumes the item 2
+Enter your choice: 2
+consumer  consumes the item 1
+Enter your choice: 2
+Buffer is empty
+Enter your choice: 3
+
+*/
